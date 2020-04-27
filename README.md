@@ -1,6 +1,8 @@
 # informatin
  online learning platform for assistance in lectures
 
+ > Informatin is now moved to mercurial and will be developed in its repository. This repository will not be updated anymore.
+
 ## The goal
  Lecutrers have recently started to use online services as assistance to their lecture. That could be quiz, video, search engines, slides or data sharing services.
  
@@ -19,5 +21,5 @@
  - [ ] Manage multiple webpages
    - [ ] Add and remove, lock and unlock pages
    - [ ] Sharing links
- - [ ] Inclusion in `mercurial.`
+ - [x] Inclusion in `mercurial.`
    - [ ] Using fork from this repository or so.
