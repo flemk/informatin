@@ -1,5 +1,7 @@
 # informatin
  online learning platform for assistance in lectures
+ 
+ > For further information have a look at: http://blog.kostelezky.com/?oid=07
 
  > Informatin is now moved to mercurial and will be developed in its repository. This repository will not be updated anymore.
 
